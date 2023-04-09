@@ -190,8 +190,12 @@
     margin-right: 10px;
 }
 
-.icon-img {
+.mariadb-icon-img {
     width: 200px;
+}
+
+.scrum-icon-img {
+    width: 150px;
 }
 
 /* Mobile */
