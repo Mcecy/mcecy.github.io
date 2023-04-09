@@ -194,6 +194,11 @@
     width: 200px;
 }
 
+.powerbi {
+    display: inline;
+    font-size: 30px;
+}
+
 .scrum-icon-img {
     width: 150px;
 }
